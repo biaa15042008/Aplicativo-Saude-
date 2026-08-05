@@ -1,5 +1,5 @@
 # Aplicativo-Saude-
-<h1 align="center">💙 Aplicativo Saúde</h1>
+<h1 align="center">💙 Aplicativo Saúde </h1>
 
 <p align="center">
   App completo de saúde pessoal para monitorar glicemia, pressão arterial, IMC, hidratação, medicamentos, vacinas e muito mais — tudo em um só lugar, com dicas de bem-estar e acesso rápido a emergências.
@@ -40,7 +40,7 @@
 
 - Linguagem: `JavaScript`, `PHP`
 - Frameworks: `React Native`/ ` Laravel `
-- Banco de dados: ``MySql`
+- Banco de dados: `MySql`
 - Design: `Canva`
 
 
