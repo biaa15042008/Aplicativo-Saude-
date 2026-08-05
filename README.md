@@ -96,10 +96,15 @@ npx expo start
 
 <br>
 
+
 ## 💌 Contato
-
+ 
 <div align="center">
-
+**Beatriz Maurício Figueiró**
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-mauricio-figueiro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizmauriciofigueiro08@gmail.com)
+ 
 Feito com 💙 para ajudar pessoas a cuidarem melhor da própria saúde.
-
+ 
 </div>
