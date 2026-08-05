@@ -17,14 +17,14 @@
 <p align="center">
 
   
-<img  height="320" width="175" alt="Emergências" src="https://github.com/user-attachments/assets/1c83a733-99e8-478b-9f09-4e06be25f847" />
-<img  height="380" width="190" alt="Pressao" src="https://github.com/user-attachments/assets/62e85b6d-8824-4a81-a825-688b103b60e5" />
+<img  height="250" width="145" alt="Emergências" src="https://github.com/user-attachments/assets/1c83a733-99e8-478b-9f09-4e06be25f847" />
+<img  height="320" width="170" alt="Pressao" src="https://github.com/user-attachments/assets/62e85b6d-8824-4a81-a825-688b103b60e5" />
 
-  <img  height="426" width="230" alt="Tela inicial" src="https://github.com/user-attachments/assets/2f7ae321-52e7-4c01-b7a3-fdf15616f943" />
+  <img  height="370" width="195" alt="Tela inicial" src="https://github.com/user-attachments/assets/2f7ae321-52e7-4c01-b7a3-fdf15616f943" />
 
 
-<img  height="380" width="190" alt="Dicas"  src="https://github.com/user-attachments/assets/b4b329ca-e89d-48ae-84c7-f8f190c57cf7" />
-<img height="320" width="175" alt="Vacinas" src="https://github.com/user-attachments/assets/9a2d2acd-4097-49a6-9d48-8a574907b029" />
+<img  height="320" width="170" alt="Dicas"  src="https://github.com/user-attachments/assets/b4b329ca-e89d-48ae-84c7-f8f190c57cf7" />
+<img height="250" width="140" alt="Vacinas" src="https://github.com/user-attachments/assets/9a2d2acd-4097-49a6-9d48-8a574907b029" />
 
 </p>
 
