@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20concluido-green" alt="status">
+  <img src="https://img.shields.io/badge/status-%20concluido-green" alt="status">
 
 </p>
 
