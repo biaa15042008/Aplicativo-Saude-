@@ -84,6 +84,12 @@ php artisan migrate
 # Popular o banco com os dados iniciais (roles, tipos sanguíneos, frutas, etc.)
 php artisan db:seed
 
+# Ou, se quiser rodar cada seeder individualmente:
+php artisan db:seed --class=DatabaseSeeder
+php artisan db:seed --class=InfoSangueSeeder
+php artisan db:seed --class=PerfilFrutaSeeder
+php artisan db:seed --class=RoleSeeder
+
 php artisan serve
 ```
 
