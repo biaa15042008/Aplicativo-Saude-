@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="status">
-  <img src="https://img.shields.io/badge/licença-MIT-blue" alt="licença">
-  <img src="https://img.shields.io/github/last-commit/SEU-USUARIO/Aplicativo-Saude-" alt="last commit">
+  <img src="https://img.shields.io/badge/status-em%20concluido-green" alt="status">
+
 </p>
 
 ---
