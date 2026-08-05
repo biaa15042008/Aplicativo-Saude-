@@ -1,3 +1,4 @@
+
 # Aplicativo-Saude-
 <h1 align="center">💙 Aplicativo Saúde </h1>
 
@@ -12,11 +13,12 @@
 
 ---
 
-## 📱 Capturas de tela
+## 📱 Imagens do App
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="220" alt="Tela inicial">
+
   <img src="docs/screenshots/glicemia.png" width="220" alt="Monitor de glicemia">
+  <img  height="370" width="200" alt="Tela inicial" src="https://github.com/user-attachments/assets/2f7ae321-52e7-4c01-b7a3-fdf15616f943" />
   <img src="docs/screenshots/medicamentos.png" width="220" alt="Lembrete de medicamentos">
 </p>
 
